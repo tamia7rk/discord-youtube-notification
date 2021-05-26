@@ -1,0 +1,2 @@
+# discord-youtube-notification
+特定のyoutubeチャンネルの新着動画のurlをdiscordに通知してくれます。
